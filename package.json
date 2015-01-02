@@ -1,6 +1,6 @@
 {
-  "name": "angular-charts",
-  "version": "0.2.7",
+  "name": "angular-charts-shlatchz",
+  "version": "0.2.8",
   "description": "angular directives for common charts using d3, for more information visit",
   "main": "Gruntfile.js",
   "dependencies": {},
@@ -28,7 +28,7 @@
   "scripts": {
     "test": "./node_modules/karma/bin/karma start"
   },
-  "repository": "https://github.com/chinmaymk/angular-charts.git",
-  "author": "chinmaymk",
+  "repository": "https://github.com/shlatchz/angular-charts.git",
+  "author": "shlatchz",
   "license": "MIT"
 }

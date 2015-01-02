@@ -1,8 +1,8 @@
 {
-  "name": "angular-charts",
-  "version": "0.2.6",
+  "name": "angular-charts-shlatchz",
+  "version": "0.2.8",
   "authors": [
-    "chinmaymk"
+    "shlatchz"
   ],
   "description": "angular directives for common charts using d3",
   "keywords": [
